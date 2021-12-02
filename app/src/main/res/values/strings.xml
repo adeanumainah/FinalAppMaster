@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Markoop</string>
+    <string name="go_to_signup">Don\'t have an account? <b>Sing Up</b></string>
+
+    <string-array name="novel_title">
+        <item>Bumi</item>
+        <item>Bulan</item>
+        <item>Matahari</item>
+        <item>Ceroz Batozar</item>
+        <item>Komet</item>
+    </string-array>
+
+    <string-array name="novel_genre">
+        <item>Fantasy</item>
+        <item>Fantasy</item>
+        <item>Fantasy</item>
+        <item>Fantasy</item>
+        <item>Fantasy</item>
+        <item>Fantasy</item>
+    </string-array>
+
+    <string-array name="novel_synopsis">
+        <item>Raib adalah seorang remaja putri berusia 15th. Dia hidup bersama dengan kedua orangtuanya. Dia mempunyai 2 ekor kucing si putih dan si hitam. Dia juga bersekolah seperti remaja kebanyakan dan mempunyai seorang teman dekat bernama Seli. Namun anehnya sesuai dengan namanya, Raib bisa menghilang. Dia bisa menghilangkan dirinya sendiri hanya dengan menutup mata menggunakan kedua tangannya.</item>
+        <item>Raib adalah seorang remaja putri berusia 15th. Dia hidup bersama dengan kedua orangtuanya. Dia mempunyai 2 ekor kucing si putih dan si hitam. Dia juga bersekolah seperti remaja kebanyakan dan mempunyai seorang teman dekat bernama Seli. Namun anehnya sesuai dengan namanya, Raib bisa menghilang. Dia bisa menghilangkan dirinya sendiri hanya dengan menutup mata menggunakan kedua tangannya.</item>
+        <item>Raib adalah seorang remaja putri berusia 15th. Dia hidup bersama dengan kedua orangtuanya. Dia mempunyai 2 ekor kucing si putih dan si hitam. Dia juga bersekolah seperti remaja kebanyakan dan mempunyai seorang teman dekat bernama Seli. Namun anehnya sesuai dengan namanya, Raib bisa menghilang. Dia bisa menghilangkan dirinya sendiri hanya dengan menutup mata menggunakan kedua tangannya.</item>
+        <item>Raib adalah seorang remaja putri berusia 15th. Dia hidup bersama dengan kedua orangtuanya. Dia mempunyai 2 ekor kucing si putih dan si hitam. Dia juga bersekolah seperti remaja kebanyakan dan mempunyai seorang teman dekat bernama Seli. Namun anehnya sesuai dengan namanya, Raib bisa menghilang. Dia bisa menghilangkan dirinya sendiri hanya dengan menutup mata menggunakan kedua tangannya.</item>
+        <item>Raib adalah seorang remaja putri berusia 15th. Dia hidup bersama dengan kedua orangtuanya. Dia mempunyai 2 ekor kucing si putih dan si hitam. Dia juga bersekolah seperti remaja kebanyakan dan mempunyai seorang teman dekat bernama Seli. Namun anehnya sesuai dengan namanya, Raib bisa menghilang. Dia bisa menghilangkan dirinya sendiri hanya dengan menutup mata menggunakan kedua tangannya.</item>
+        <item>Raib adalah seorang remaja putri berusia 15th. Dia hidup bersama dengan kedua orangtuanya. Dia mempunyai 2 ekor kucing si putih dan si hitam. Dia juga bersekolah seperti remaja kebanyakan dan mempunyai seorang teman dekat bernama Seli. Namun anehnya sesuai dengan namanya, Raib bisa menghilang. Dia bisa menghilangkan dirinya sendiri hanya dengan menutup mata menggunakan kedua tangannya.</item>
+    </string-array>
+
+    <string-array name="novel_author">
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+    </string-array>
+
+
+    <string-array name="title_mystery">
+        <item>Gone Girl</item>
+        <item>The Black Cat</item>
+        <item>The Tokyo Zodiac Murders</item>
+        <item>Sherlock Holmes</item>
+        <item>The ABC Murders</item>
+    </string-array>
+
+    <string-array name="genre_mystery">
+        <item>Mystery</item>
+        <item>Mystery</item>
+        <item>Mystery</item>
+        <item>Mystery</item>
+        <item>Mystery</item>
+        <item>Mystery</item>
+    </string-array>
+
+    <string-array name="synopsis_mystery">
+        <item>Nick Dunne, Istriku menghilang. Tepat pada hari ulang tahun kami yang kelima. Ketika pulang hari itu, aku mendapati sisa-sisa pengumulan di ruang duduk. Polisi mencurigaiku. Banyak kejanggalan muncul dari hasil penyelidikan. Parahnya, semua bukti mengarah padaku. Apa yang istriku lakukan terhadapku?. Amy Dunne, Dalam buku harian,aku menulis dia mungkin akan membunuhku. Kalau suatu hari aku ditemukan mati… yah, itu bukan lelucon yang lucu. Setahun belakangan aku sudah mempersiapkan diri. Agar suamiku tidak macam-macam denganku.Nick harus mengerahkan segala upaya untuk lepas dari penghukuman media dan publik, menghindar dari penjara dan bahkan hukuman mati. Menyelami isi kepala istrinya yang rumit dan perfeksionis, hanya itu satu-satunya cara.</item>
+        <item>Nick Dunne, Istriku menghilang. Tepat pada hari ulang tahun kami yang kelima. Ketika pulang hari itu, aku mendapati sisa-sisa pengumulan di ruang duduk. Polisi mencurigaiku. Banyak kejanggalan muncul dari hasil penyelidikan. Parahnya, semua bukti mengarah padaku. Apa yang istriku lakukan terhadapku?. Amy Dunne, Dalam buku harian,aku menulis dia mungkin akan membunuhku. Kalau suatu hari aku ditemukan mati… yah, itu bukan lelucon yang lucu. Setahun belakangan aku sudah mempersiapkan diri. Agar suamiku tidak macam-macam denganku.Nick harus mengerahkan segala upaya untuk lepas dari penghukuman media dan publik, menghindar dari penjara dan bahkan hukuman mati. Menyelami isi kepala istrinya yang rumit dan perfeksionis, hanya itu satu-satunya cara.</item>
+        <item>Nick Dunne, Istriku menghilang. Tepat pada hari ulang tahun kami yang kelima. Ketika pulang hari itu, aku mendapati sisa-sisa pengumulan di ruang duduk. Polisi mencurigaiku. Banyak kejanggalan muncul dari hasil penyelidikan. Parahnya, semua bukti mengarah padaku. Apa yang istriku lakukan terhadapku?. Amy Dunne, Dalam buku harian,aku menulis dia mungkin akan membunuhku. Kalau suatu hari aku ditemukan mati… yah, itu bukan lelucon yang lucu. Setahun belakangan aku sudah mempersiapkan diri. Agar suamiku tidak macam-macam denganku.Nick harus mengerahkan segala upaya untuk lepas dari penghukuman media dan publik, menghindar dari penjara dan bahkan hukuman mati. Menyelami isi kepala istrinya yang rumit dan perfeksionis, hanya itu satu-satunya cara.</item>
+        <item>Nick Dunne, Istriku menghilang. Tepat pada hari ulang tahun kami yang kelima. Ketika pulang hari itu, aku mendapati sisa-sisa pengumulan di ruang duduk. Polisi mencurigaiku. Banyak kejanggalan muncul dari hasil penyelidikan. Parahnya, semua bukti mengarah padaku. Apa yang istriku lakukan terhadapku?. Amy Dunne, Dalam buku harian,aku menulis dia mungkin akan membunuhku. Kalau suatu hari aku ditemukan mati… yah, itu bukan lelucon yang lucu. Setahun belakangan aku sudah mempersiapkan diri. Agar suamiku tidak macam-macam denganku.Nick harus mengerahkan segala upaya untuk lepas dari penghukuman media dan publik, menghindar dari penjara dan bahkan hukuman mati. Menyelami isi kepala istrinya yang rumit dan perfeksionis, hanya itu satu-satunya cara.</item>
+        <item>Nick Dunne, Istriku menghilang. Tepat pada hari ulang tahun kami yang kelima. Ketika pulang hari itu, aku mendapati sisa-sisa pengumulan di ruang duduk. Polisi mencurigaiku. Banyak kejanggalan muncul dari hasil penyelidikan. Parahnya, semua bukti mengarah padaku. Apa yang istriku lakukan terhadapku?. Amy Dunne, Dalam buku harian,aku menulis dia mungkin akan membunuhku. Kalau suatu hari aku ditemukan mati… yah, itu bukan lelucon yang lucu. Setahun belakangan aku sudah mempersiapkan diri. Agar suamiku tidak macam-macam denganku.Nick harus mengerahkan segala upaya untuk lepas dari penghukuman media dan publik, menghindar dari penjara dan bahkan hukuman mati. Menyelami isi kepala istrinya yang rumit dan perfeksionis, hanya itu satu-satunya cara.</item>
+        <item>Nick Dunne, Istriku menghilang. Tepat pada hari ulang tahun kami yang kelima. Ketika pulang hari itu, aku mendapati sisa-sisa pengumulan di ruang duduk. Polisi mencurigaiku. Banyak kejanggalan muncul dari hasil penyelidikan. Parahnya, semua bukti mengarah padaku. Apa yang istriku lakukan terhadapku?. Amy Dunne, Dalam buku harian,aku menulis dia mungkin akan membunuhku. Kalau suatu hari aku ditemukan mati… yah, itu bukan lelucon yang lucu. Setahun belakangan aku sudah mempersiapkan diri. Agar suamiku tidak macam-macam denganku.Nick harus mengerahkan segala upaya untuk lepas dari penghukuman media dan publik, menghindar dari penjara dan bahkan hukuman mati. Menyelami isi kepala istrinya yang rumit dan perfeksionis, hanya itu satu-satunya cara.</item>
+    </string-array>
+
+    <string-array name="author_mystery">
+        <item>Gillian Flynn</item>
+        <item>Gillian Flynn</item>
+        <item>Gillian Flynn</item>
+        <item>Gillian Flynn</item>
+        <item>Gillian Flynn</item>
+        <item>Gillian Flynn</item>
+    </string-array>
+
+
+
+    <string-array name="title_horror">
+        <item>Journal of Terror</item>
+        <item>The Black Cat</item>
+        <item>The Tokyo Zodiac Murders</item>
+        <item>Sherlock Holmes</item>
+        <item>The ABC Murders</item>
+    </string-array>
+
+    <string-array name="genre_horror">
+        <item>Horror</item>
+        <item>Horror</item>
+        <item>Horror</item>
+        <item>Horror</item>
+        <item>Horror</item>
+        <item>Horror</item>
+    </string-array>
+
+    <string-array name="synopsis_horror">
+        <item>Namaku Prana. Aku bisa melihat penghuni dunia seberang melalui mata saudara kembarku yang sudah mati. Tanpa pernah kuduga, kemampuan ini telah mengantarkanku ke depan gerbang petualangan menuju dunia kegelapan. Ini adalah catatan harianku. Kumpulan kisah-kisah berhantu yang kurangkum dalam sebuah jurnal. Jurnal penuh misteri. Jurnal penuh teror.</item>
+        <item>Namaku Prana. Aku bisa melihat penghuni dunia seberang melalui mata saudara kembarku yang sudah mati. Tanpa pernah kuduga, kemampuan ini telah mengantarkanku ke depan gerbang petualangan menuju dunia kegelapan. Ini adalah catatan harianku. Kumpulan kisah-kisah berhantu yang kurangkum dalam sebuah jurnal. Jurnal penuh misteri. Jurnal penuh teror.</item>
+        <item>Namaku Prana. Aku bisa melihat penghuni dunia seberang melalui mata saudara kembarku yang sudah mati. Tanpa pernah kuduga, kemampuan ini telah mengantarkanku ke depan gerbang petualangan menuju dunia kegelapan. Ini adalah catatan harianku. Kumpulan kisah-kisah berhantu yang kurangkum dalam sebuah jurnal. Jurnal penuh misteri. Jurnal penuh teror.</item>
+        <item>Namaku Prana. Aku bisa melihat penghuni dunia seberang melalui mata saudara kembarku yang sudah mati. Tanpa pernah kuduga, kemampuan ini telah mengantarkanku ke depan gerbang petualangan menuju dunia kegelapan. Ini adalah catatan harianku. Kumpulan kisah-kisah berhantu yang kurangkum dalam sebuah jurnal. Jurnal penuh misteri. Jurnal penuh teror.</item>
+        <item>Namaku Prana. Aku bisa melihat penghuni dunia seberang melalui mata saudara kembarku yang sudah mati. Tanpa pernah kuduga, kemampuan ini telah mengantarkanku ke depan gerbang petualangan menuju dunia kegelapan. Ini adalah catatan harianku. Kumpulan kisah-kisah berhantu yang kurangkum dalam sebuah jurnal. Jurnal penuh misteri. Jurnal penuh teror.</item>
+        <item>Namaku Prana. Aku bisa melihat penghuni dunia seberang melalui mata saudara kembarku yang sudah mati. Tanpa pernah kuduga, kemampuan ini telah mengantarkanku ke depan gerbang petualangan menuju dunia kegelapan. Ini adalah catatan harianku. Kumpulan kisah-kisah berhantu yang kurangkum dalam sebuah jurnal. Jurnal penuh misteri. Jurnal penuh teror.</item>
+    </string-array>
+
+    <string-array name="author_horror">
+        <item>Sweta Kartika</item>
+        <item>Sweta Kartika</item>
+        <item>Sweta Kartika</item>
+        <item>Sweta Kartika</item>
+        <item>Sweta Kartika</item>
+        <item>Sweta Kartika</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
